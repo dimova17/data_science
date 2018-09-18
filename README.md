@@ -1,2 +1,2 @@
 # data_science
-Data science with Python and R
+Data science labs with Python and R 
